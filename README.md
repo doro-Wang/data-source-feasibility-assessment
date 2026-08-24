@@ -31,3 +31,5 @@ Public structured review data with successful pagination, repeatable collection,
 Public discussion data with strong accessibility and repeatability, but additional preprocessing and per-item retrieval are required.
 
 ## Now a dataset of 10,000 recent Steam reviews across five games has been collected, and exploratory data analysis (EDA) has been completed.
+
+## A dataset of 10,000 recent Google Play reviews across five apps has been collected, and exploratory data analysis (EDA) has been completed.
