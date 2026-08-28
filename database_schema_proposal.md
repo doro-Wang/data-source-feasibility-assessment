@@ -181,7 +181,7 @@ App-version values have formats such as:
     9.1.76.2055
     8.2.0
 
-These values should therefore be stored as strings rather than numeric values.
+These values should therefore be stored as strings.
 
 ### Use timestamps for review and reply dates
 
